@@ -1,1 +1,3 @@
-Marci's first git-exercise
+MARCI'S FIRST GIT EXERCISE
+
+Practice makes perfect!
